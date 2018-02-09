@@ -1,5 +1,7 @@
 # contextCrawlerIoT
 
+see https://www.youtube.com/watch?v=n5qHl4DRqlA&feature=youtu.be (only spanish)
+
 Use python 2
 This project have two parts
 
