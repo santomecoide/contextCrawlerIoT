@@ -1,6 +1,6 @@
 # contextCrawlerIoT
 
-see https://www.youtube.com/watch?v=FNMJ9VE005U&feature=youtu.be (only spanish)
+see https://youtu.be/FNMJ9VE005U (only spanish)
 
 Use python 2
 This project have two parts
