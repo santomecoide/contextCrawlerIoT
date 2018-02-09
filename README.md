@@ -2,8 +2,7 @@
 
 see https://youtu.be/FNMJ9VE005U (only spanish)
 
-Use python 2
-This project have two parts
+use python 2
 
 need python libraries
 - CoAPthon
