@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<objects>
+    <object>
+        <id>708637323</id>
+        <infoitem name="708637323">
+            <metadata>
+                <infoitem name="object_name">
+                    <value type="string">Temperature regulator, thermostat</value>
+                </infoitem>
+                <infoitem name="description">
+                    <value type="string">Smart objeect to fit the temperature in any closed place</value>
+                </infoitem>
+                <infoitem name="service_state">
+                    <value type="boolean">off</value>
+                </infoitem>
+                <infoitem name="longitud">
+                    <value type="double">-76.5981505</value>
+                </infoitem>
+                <infoitem name="latitud">
+                    <value type="double">2.4471309</value>
+                </infoitem>
+            </metadata>
+        </infoitem>
+        <infoitem name="calefactor">
+            <metadata>
+                <infoitem name="resource_name">
+                    <value type="string">Heater</value>
+                </infoitem>
+                <infoitem name="format">
+                    <value>boolean</value>
+                </infoitem>
+                <infoitem name="unit">
+                    <value type="string" />
+                </infoitem>
+                <infoitem name="resource_type">
+                    <value type="string">actuator</value>
+                </infoitem>
+            </metadata>
+        </infoitem>
+        <infoitem name="temperatura">
+            <metadata>
+                <infoitem name="resource_name">
+                    <value type="string">Temperature</value>
+                </infoitem>
+                <infoitem name="format">
+                    <value>float</value>
+                </infoitem>
+                <infoitem name="unit">
+                    <value type="string">C</value>
+                </infoitem>
+                <infoitem name="resource_type">
+                    <value type="string">sensor</value>
+                </infoitem>
+            </metadata>
+        </infoitem>
+        <infoitem name="ventilador">
+            <metadata>
+                <infoitem name="resource_name">
+                    <value type="string">Fan</value>
+                </infoitem>
+                <infoitem name="format">
+                    <value>boolean</value>
+                </infoitem>
+                <infoitem name="unit">
+                    <value type="string" />
+                </infoitem>
+                <infoitem name="resource_type">
+                    <value type="string">actuator</value>
+                </infoitem>
+            </metadata>
+        </infoitem>
+    </object>
+</objects>
